@@ -1,0 +1,40 @@
+/*Jake Etherton
+Live Landing Page (styles.css)
+4/10/2023 */
+
+h1
+{
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: #3D9970;
+    color:antiquewhite;
+}
+
+h2
+{
+    font-family: Verdana;
+    font-weight: bold;
+    background-color: #3D9970;
+    color:antiquewhite;
+}
+
+img
+{
+    width: 50%;
+    
+}
+
+body
+{
+    background-color: darkslategrey;
+
+}
+
+.main
+{
+    background-color: antiquewhite;
+    text-align: center;
+    margin: auto;
+    width: 80%;
+
+}
